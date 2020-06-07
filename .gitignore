@@ -4,6 +4,9 @@
 /server/node_modules
 /web/node_modules
 /node_modules
+uploads/*
+!uploads/.gitkeep
+*.sqlite
 /.pnp
 .pnp.js
 
